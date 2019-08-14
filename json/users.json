@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "5d528da5b7770c0020f0c530",
+    "username": "Dan",
+    "createdOn": "2019-08-13T04:10:09.055Z"
+  },
+  {
+    "_id": "5d528dbfb7770c0020f0c531",
+    "username": "Alex",
+    "createdOn": "2019-08-13T04:10:09.055Z"
+  },
+  {
+    "_id": "5d528dceb7770c0020f0c532",
+    "username": "Bob",
+    "createdOn": "2019-08-13T04:10:09.055Z"
+  }
+]
